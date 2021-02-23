@@ -6,7 +6,6 @@ url_2_spec_off = "https://5ka.ru/api/v2/special_offers/"
 
 
 class Parser:
-
     def __init__(self, url_1, url_2):
         self.url_1 = url_1
         self.url_2 = url_2
