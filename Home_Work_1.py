@@ -1,5 +1,5 @@
-import requests
 import json
+import requests
 
 url_cat = "https://5ka.ru/api/v2/categories/"
 url_2_spec_off = "https://5ka.ru/api/v2/special_offers/"
